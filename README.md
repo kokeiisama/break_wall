@@ -127,6 +127,16 @@ http://www.live-socks.net/
 
 
 
+#新订阅
+ss: https://raw.githubusercontent.com/money-fly/subaddress/main/ss.txt
+
+ssr: https://raw.githubusercontent.com/money-fly/subaddress/main/ssr.txt
+
+vmess: https://raw.githubusercontent.com/money-fly/subaddress/main/vmess.txt
+
+pcclash: https://raw.githubusercontent.com/money-fly/subaddress/main/pcclash.txt
+
+androidclash https://raw.githubusercontent.com/money-fly/subaddress/main/adclash.txt
 
 
 
